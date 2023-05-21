@@ -2,8 +2,10 @@
 [![npm-version](https://badgen.net/npm/v/shellies-ng)](https://www.npmjs.com/package/shellies-ng)
 
 Handles communication with the next generation of Shelly devices.
+This branch adds support for the I4 DC version device.
 
 For the first generation, see [node-shellies](https://github.com/alexryd/node-shellies).
+For the source of this branch, see [node-shellies-ng](https://github.com/alexryd/node-shellies-ng).
 
 ## Supported devices
 

@@ -7,11 +7,9 @@
   "files": [
     "dist/**/*"
   ],
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com"
-   },
   "scripts": {
     "build": "rimraf ./dist && tsc",
+    "publish": "npm publish --access public",
     "lint": "eslint ./src --ext .ts,.js --max-warnings=0",
     "test": "jest",
     "preversion": "npm run build && npm run lint && npm test",
@@ -24,7 +22,10 @@
   "keywords": [
     "shelly"
   ],
-  "author": "Bela Lazar",
+  "author": "Alexander Rydén",
+  "contributors": [
+    "Béla Lázár"
+  ],
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/lazarbela/node-shellies-ng/issues"

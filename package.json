@@ -1,6 +1,6 @@
 {
-  "name": "@lazarbela/shellies-ng",
-  "version": "1.6.0",
+  "name": "@oreus2/shellies-ng",
+  "version": "1.6.1",
   "description": "Handles communication with the next generation of Shelly devices",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,20 +17,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lazarbela/node-shellies-ng.git"
+    "url": "git+https://github.com/oreus2/node-shellies-ng.git"
   },
   "keywords": [
     "shelly"
   ],
   "author": "Alexander Rydén",
   "contributors": [
-    "Béla Lázár"
+    "Béla Lázár",
+    "oreus2"
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/lazarbela/node-shellies-ng/issues"
+    "url": "https://github.com/oreus2/node-shellies-ng/issues"
   },
-  "homepage": "https://github.com/lazarbela/node-shellies-ng#readme",
+  "homepage": "https://github.com/oreus2/node-shellies-ng#readme",
   "funding": {
     "type": "kofi",
     "url": "https://ko-fi.com/alexryd"

@@ -1,9 +1,9 @@
 # node-shellies-ng
-[![npm-version](https://badgen.net/npm/v/@lazarbela/shellies-ng)](https://github.com/lazarbela/node-shellies-ng/pkgs/npm/shellies-ng)
+[![npm-version](https://badgen.net/npm/v/@oreus2/shellies-ng)](https://github.com/oreus2/node-shellies-ng/pkgs/npm/shellies-ng)
 
 Handles communication with the next generation of Shelly devices.
 
-_This branch adds support for the I4 DC version device._
+_This branch adds support for the Shelly Plug Plus S device._
 
 For the first generation of Shelly devices, see [node-shellies](https://github.com/alexryd/node-shellies).
 For the source of this branch, see the great work of Alexander Rydén at [node-shellies-ng](https://github.com/alexryd/node-shellies-ng).
@@ -16,6 +16,7 @@ For the source of this branch, see the great work of Alexander Rydén at [node-s
 * [Shelly Plus I4](https://shelly-api-docs.shelly.cloud/gen2/Devices/ShellyPlusI4)
 * [Shelly Plus I4 DC](https://shelly-api-docs.shelly.cloud/gen2/Devices/ShellyPlusI4) <sup>2</sup>
 * [Shelly Plus Plug US](https://shelly-api-docs.shelly.cloud/gen2/Devices/ShellyPlugUS)
+* [Shelly Plus Plug S](https://shelly-api-docs.shelly.cloud/gen2/Devices/ShellyPlugS)
 * [Shelly Plus H&T](https://shelly-api-docs.shelly.cloud/gen2/Devices/ShellyPlusHT) <sup>1</sup>
 * [Shelly Pro 1](https://shelly-api-docs.shelly.cloud/gen2/Devices/ShellyPro1)
 * [Shelly Pro 1 PM](https://shelly-api-docs.shelly.cloud/gen2/Devices/ShellyPro1PM)
